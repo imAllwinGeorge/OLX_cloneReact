@@ -94,8 +94,6 @@
   margin-right: 5px;
 }
 
-.language svg {
-}
 
 .span {
   text-decoration: none;
@@ -105,7 +103,10 @@
   font-weight: bolder;
   margin-right: 5px;
 }
-
+.loginPage span{
+  
+  cursor: pointer;
+}
 .loginPage hr {
   margin: 0;
   background-color: black;
